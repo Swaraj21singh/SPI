@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+dD:\Fall Semester 22-23\modelsim
+Espi_slave
+Z0 w1695675180
+Z1 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dD:\SPI\modelsim project
+Z6 8D:/SPI/modelsim project/spi_master.vhd
+Z7 FD:/SPI/modelsim project/spi_master.vhd
+l0
+L8
+V_830[EE85cDTnDMohPNSc3
+!s100 ]>EoB2N9;P8bYAoN`T^570
+Z8 OV;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1695675185.989000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/SPI/modelsim project/spi_master.vhd|
+Z11 !s107 D:/SPI/modelsim project/spi_master.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z14 DEx4 work 9 spi_slave 0 22 _830[EE85cDTnDMohPNSc3
+l51
+L29
+Z15 Vm3e:8U`__nPjHi@on1W_<0
+Z16 !s100 mj>WH@ZYdj]@cE<@SQJS61
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
